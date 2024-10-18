@@ -20,6 +20,7 @@ Items Data: The script analyzes each item ordered. It creates a dictionary where
 
 Usage Instructions:
 we need to place our JSON file containing the orders in the same directory as the script or provide its full path.
+Make sure the required `example_orders.json` file is in the same directory as `dosa.py`.
 Run the script using the command:python <script_name.py>  <order_file.json> for me it is python dosa.py example_orders.json
 
 Error Handling:
